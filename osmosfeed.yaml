@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
- # cacheUrl: https://shakshita.github.io/redditlokam/cache.json
+  # cacheUrl: https://shakshita.github.io/redditlokam/cache.json
 sources:
   - href: https://reddit.com/r/Actress_uhd/new.rss
   - href: https://reddit.com/r/ActressArmpitFans/new.rss
